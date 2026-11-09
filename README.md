@@ -22,7 +22,6 @@ For each sample (a pair of images from the same field of view):
 ```
 cell_analysis_pipeline.py   # main pipeline
 cad/concepts/               # early OpenSCAD concept designs of the cell-contact device
-data/images_folder/         # default input folder (images not included)
 ```
 
 ## Requirements
