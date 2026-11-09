@@ -1,4 +1,4 @@
-# Image-Based Cell Sorting
+# Image-Based Cell Screening
 
 Python image-analysis pipeline for **image-based screening of CAR-T–cancer cell interactions** in two-channel fluorescence microscopy. It segments CAR-T cells and cancer cells, detects their contact regions, and extracts quantitative image-based features of each cell–cell encounter.
 
