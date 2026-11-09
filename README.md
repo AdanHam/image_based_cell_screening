@@ -64,5 +64,5 @@ Supervisors: Prof. Eilon Sherman, Dr. Julia Sajman
 Racah Institute of Physics, The Hebrew University of Jerusalem
 
 # Contact
-- Yasmin Zahalka: yasmin.zahalka@mail.huji.ac.il
-- Adan Hammam: adan.hamam@mail.huji.ac.il
+- Yasmin Zahalka: Yasminzahalka27@gmail.com
+- Adan Hammam: hammamadan@gmail.com
